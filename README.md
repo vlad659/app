@@ -31,7 +31,10 @@ Standard Notes is a dependable environment to do your most important work, inclu
 
 [Learn more about Listed.](https://listed.to/)
 
-### Community
+### Communitydocker run -d -p 3001:3001 --env-file=.env.sample standardnotes/web:stable
+sh
+docker run -d -p 3001:3001 --env-file=.env.sample standardnotes/web:stable
+
 
 Join us on
 
